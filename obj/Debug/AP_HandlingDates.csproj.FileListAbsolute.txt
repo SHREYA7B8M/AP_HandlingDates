@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_HandlingDates\AP_HandlingDates\bin\Debug\AP_HandlingDates.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_HandlingDates\AP_HandlingDates\bin\Debug\AP_HandlingDates.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_HandlingDates\AP_HandlingDates\bin\Debug\AP_HandlingDates.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_HandlingDates\AP_HandlingDates\obj\Debug\AP_HandlingDates.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_HandlingDates\AP_HandlingDates\obj\Debug\AP_HandlingDates.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_HandlingDates\AP_HandlingDates\obj\Debug\AP_HandlingDates.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_HandlingDates\AP_HandlingDates\obj\Debug\AP_HandlingDates.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_HandlingDates\AP_HandlingDates\obj\Debug\AP_HandlingDates.pdb
